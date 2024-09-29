@@ -1,0 +1,265 @@
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.AssemblyReference.cache
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.CoreCompileInputs.cache
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll.config
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\MENDESHOP.pdb
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe.config
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csc.rsp
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe.config
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\csi.rsp
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Buffers.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Collections.Immutable.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Memory.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Numerics.Vectors.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Reflection.Metadata.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe.config
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\vbc.rsp
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe.config
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\EntityFramework.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\PagedList.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Razor.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\EntityFramework.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\PagedList.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Razor.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.xml
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.CopyComplete
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.dll
+D:\DUY BẢO\DoAnLapTrinhWeb\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.pdb
+D:\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll.config
+D:\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll
+D:\MENDESHOP\MENDESHOP\bin\MENDESHOP.pdb
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe.config
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csc.rsp
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe.config
+D:\MENDESHOP\MENDESHOP\bin\roslyn\csi.rsp
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Buffers.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Collections.Immutable.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Memory.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Numerics.Vectors.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Reflection.Metadata.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe
+D:\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe.config
+D:\MENDESHOP\MENDESHOP\bin\roslyn\vbc.rsp
+D:\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe
+D:\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe.config
+D:\MENDESHOP\MENDESHOP\bin\EntityFramework.dll
+D:\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.dll
+D:\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MENDESHOP\MENDESHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\MENDESHOP\MENDESHOP\bin\PagedList.dll
+D:\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Razor.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.dll
+D:\MENDESHOP\MENDESHOP\bin\EntityFramework.xml
+D:\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.xml
+D:\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MENDESHOP\MENDESHOP\bin\PagedList.xml
+D:\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Razor.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.xml
+D:\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.AssemblyReference.cache
+D:\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.CoreCompileInputs.cache
+D:\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.dll
+D:\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.pdb
+D:\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.Up2Date
+D:\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.dll
+D:\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.dll
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.dll
+D:\MENDESHOP\MENDESHOP\bin\WebGrease.dll
+D:\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.pdb
+D:\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.xml
+D:\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll.config
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.pdb
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe.config
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.rsp
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe.config
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.rsp
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Buffers.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Memory.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe.config
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.rsp
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Razor.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\WebGrease.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.pdb
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Razor.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.xml
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.AssemblyReference.cache
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.CoreCompileInputs.cache
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.Up2Date
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.dll
+C:\Users\dangt\Desktop\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.pdb
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll.config
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\MENDESHOP.pdb
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.exe.config
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csc.rsp
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.exe.config
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\csi.rsp
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Buffers.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Collections.Immutable.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Memory.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Numerics.Vectors.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Reflection.Metadata.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.exe.config
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\vbc.rsp
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\roslyn\VBCSCompiler.exe.config
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Razor.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\WebGrease.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Antlr3.Runtime.pdb
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\EntityFramework.SqlServer.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\Newtonsoft.Json.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\PagedList.Mvc.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Optimization.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Razor.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Deployment.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Webpages.Razor.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Helpers.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\bin\System.Web.Mvc.xml
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.AssemblyReference.cache
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.CoreCompileInputs.cache
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.csproj.Up2Date
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.dll
+D:\MENDESHOPFULL\MENDESHOP (1)\MENDESHOP\MENDESHOP\obj\Debug\MENDESHOP.pdb
